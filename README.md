@@ -12,8 +12,7 @@
 
 1. このリポジトリをクローンします。
    ```
-   git clone <repository-url>
-   cd mysql-docker-project
+   git clone https://github.com/e165747/lerning_sql.git
    ```
 
 2. DockerとDocker Composeがインストールされていることを確認します。
