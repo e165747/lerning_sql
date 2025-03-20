@@ -1,0 +1,1 @@
+CREATE INDEX idx_payment_date_amount ON payment (payment_date, amount);
